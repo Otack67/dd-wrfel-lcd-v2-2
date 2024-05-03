@@ -1,0 +1,30 @@
+{
+    "name": "D&D Würfel LCD V2 #2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "display": "github:calliope-edu/pxt-display#1f732758e1f0903be78ed912f58d8a49519f422b",
+        "v2": "*",
+        "Grove": "github:calliope-edu/pxt-grove#v0.9.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.28",
+        "tag": "v6.0.28",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/0de6e9a3947686a88380ad08ae6ee4c926ca5b19",
+        "target": "6.0.28",
+        "pxt": "9.0.15",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
